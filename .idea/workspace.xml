@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a2c806c-262a-4b21-bf13-f7f9e6993e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/README.mux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/anim_diff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/anim_dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/cwebp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/dwebp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/get_disto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/gif2webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/img2webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/vwebp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/webp_quality" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/webpinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/bin/webpmux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/cwebp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/cwebp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/dwebp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/dwebp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/gif2webp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/gif2webp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/img2webp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/img2webp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/vwebp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/vwebp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/webpinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/webpinfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/webpmux.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/doc/webpmux.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/decode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/demux.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/encode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/mux.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/mux_types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/include/webp/types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/lib/libwebp.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/lib/libwebpdemux.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_linux/lib/libwebpmux.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/README" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/README.mux" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/README.mux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/anim_diff" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/anim_diff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/anim_dump" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/anim_dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/cwebp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/cwebp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/dwebp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/dwebp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/get_disto" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/get_disto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/gif2webp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/gif2webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/img2webp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/img2webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/vwebp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/vwebp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/webp_quality" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/webp_quality" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/webpinfo" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/webpinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/bin/webpmux" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/bin/webpmux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/cwebp.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/cwebp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/cwebp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/cwebp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/dwebp.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/dwebp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/gif2webp.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/gif2webp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/img2webp.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/img2webp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/vwebp.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/vwebp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/vwebp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/vwebp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/webpinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/webpinfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/doc/webpmux.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/doc/webpmux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/include/webp/decode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/include/webp/decode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/include/webp/encode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/include/webp/encode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebp.a" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebp.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebpdemux.a" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebpdemux.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebpmux.a" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_osx/lib/libwebpmux.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/Readme-mux.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/Readme-mux.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/anim_diff.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/anim_diff.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/anim_dump.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/anim_dump.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/cwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/cwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/dwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/dwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/get_disto.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/get_disto.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/gif2webp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/gif2webp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/img2webp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/img2webp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/vwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/vwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/vwebp_sdl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/webp_quality.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/webp_quality.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/webpinfo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/webpinfo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/bin/webpmux.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/bin/webpmux.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/include/webp/decode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/include/webp/decode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/include/webp/encode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/include/webp/encode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebp.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebp.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebpdemux.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebpdemux.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebpmux.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win32/lib/libwebpmux.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/Readme-mux.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/Readme-mux.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/anim_diff.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/anim_diff.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/anim_dump.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/anim_dump.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/cwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/cwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/dwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/dwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/get_disto.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/get_disto.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/gif2webp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/gif2webp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/img2webp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/img2webp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/vwebp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/vwebp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/vwebp_sdl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/webp_quality.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/webp_quality.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/webpinfo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/webpinfo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/bin/webpmux.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/bin/webpmux.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/include/webp/decode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/include/webp/decode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/include/webp/encode.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/include/webp/encode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebp.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebp.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebpdemux.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebpdemux.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebpmux.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lib/libwebp_win64/lib/libwebpmux.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/version_info.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Coding\Imagenius\img-webpc\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/img-webpc.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PTRVruilUiGo63Eqmppw575Oq0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/libwebp_linux" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a2c806c-262a-4b21-bf13-f7f9e6993e93" name="Default Changelist" comment="" />
+      <created>1565896126501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565896126501</updated>
+      <workItem from="1565896127678" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
